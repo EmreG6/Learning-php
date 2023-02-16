@@ -30,5 +30,13 @@ if (10<1) {
     echo '<p> None of the conditions are true, we never stopped, so this is the else</p>';
 }
 
+
+#   Yoda Conditionals
+
+#   Good
+# if (10 == $i) { /* do sth */ }
+
+#   Bad
+# if ($i == 10) { /* do sth */ }
 ?>
 
